@@ -1,0 +1,36 @@
+[
+  {
+    "id": "adrenalyn-laliga-25-26",
+    "slug": "adrenalyn-25-26",
+    "name": "Adrenalyn XL LaLiga 2025/26",
+    "publisher": "Panini",
+    "type": "Trading Card Game",
+    "year": "2025",
+    "season": "2025/2026",
+    "total_cards": 470,
+    "release_date": "2025-01-15",
+    "description": "La colección oficial de cartas coleccionables de La Liga EA Sports. Incluye Balones de Oro, Supercracks y las nuevas cartas 'Energy'.",
+    "cover_image": "assets/img/adrenalyn_2526_cover.jpg",
+    "categories": [
+      { "id": "base", "name": "Base", "count": 300, "color": "#cccccc" },
+      { "id": "energy", "name": "Energy", "count": 27, "color": "#ff4500" },
+      { "id": "diamante", "name": "Diamante", "count": 18, "color": "#00bfff" },
+      { "id": "supercrack", "name": "Supercrack", "count": 21, "color": "#ffd700" },
+      { "id": "balon_oro", "name": "Balón de Oro", "count": 5, "color": "#000000" }
+    ]
+  },
+  {
+    "id": "match-attax-ucl-25-26",
+    "slug": "match-attax-25-26",
+    "name": "Match Attax Champions League 25/26",
+    "publisher": "Topps",
+    "type": "Trading Card Game",
+    "year": "2025",
+    "season": "2025/2026",
+    "total_cards": 520,
+    "release_date": "2025-08-20",
+    "description": "La colección oficial de la UEFA Champions League.",
+    "cover_image": "assets/img/match_attax_2526_cover.jpg",
+    "categories": []
+  }
+]

@@ -1,0 +1,651 @@
+/* layor24 - Adrenalyn XL Visual Style Redesign */
+:root {
+    /* ADRENALYN 25-26 PALETTE */
+    --color-bg: #0d0d12;
+    /* Deep dark blue-black */
+    --color-surface: #22222a;
+    /* Tech dark gray */
+
+    --color-orange: rgba(238, 165, 39);
+    /* Vibrant Orange (User Custom) */
+    --color-orange-dark: #b37400;
+    /* Adjusted darker shade */
+    --color-yellow: #ffdd00;
+    /* Adrenalyn Yellow */
+    --color-yellow-light: #ffea00;
+
+    --color-text: #ffffff;
+    --color-text-dim: #a0a0b0;
+
+    --color-primary: var(--color-orange);
+    --color-secondary: var(--color-yellow);
+
+    /* GRADIENTS */
+    --gradient-main: linear-gradient(135deg, #1a0b36 0%, #3e1208 50%, #521800 100%);
+    /* Abstract background flow */
+    --gradient-banner: linear-gradient(90deg, #ff8c00 0%, #ff4500 50%, #ffcc00 100%);
+    --gradient-card: linear-gradient(145deg, #2a2a35, #1c1c24);
+    --gradient-button: linear-gradient(180deg, #ffd700 0%, #ff8c00 100%);
+
+    --font-main: 'Outfit', sans-serif;
+    --shadow-glow: 0 0 15px rgba(255, 69, 0, 0.4);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--color-bg);
+    background-image:
+        radial-gradient(circle at 20% 20%, rgba(255, 69, 0, 0.15) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 215, 0, 0.1) 0%, transparent 50%);
+    background-attachment: fixed;
+    color: var(--color-text);
+    font-family: var(--font-main);
+    padding-bottom: 120px;
+    overflow-x: hidden;
+}
+
+/* REUSABLES */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* UTILS */
+.page-header {
+    text-align: center;
+    padding: 4rem 1rem 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Dynamic background shape for header */
+.page-header::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -10%;
+    width: 120%;
+    height: 100%;
+    background: radial-gradient(ellipse at center, rgba(255, 69, 0, 0.2) 0%, transparent 70%);
+    z-index: -1;
+    transform: rotate(-5deg);
+}
+
+h1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-style: italic;
+    background: linear-gradient(to bottom, #fff 40%, #ffcc00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 4px 0px rgba(0, 0, 0, 1));
+    letter-spacing: -2px;
+    transform: skewX(-10deg);
+    display: inline-block;
+}
+
+/* =========================================
+   MOBILE NAVIGATION (Tech Pill)
+   ========================================= */
+.navbar {
+    position: fixed;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 92%;
+    max-width: 400px;
+    height: 70px;
+    background: rgba(13, 13, 18, 0.9);
+    backdrop-filter: blur(15px);
+    border: 2px solid var(--color-orange);
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 1rem;
+    z-index: 1000;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8), inset 0 0 20px rgba(255, 69, 0, 0.1);
+    clip-path: polygon(5% 0, 100% 0, 95% 100%, 0% 100%);
+    /* Slight angular shape */
+}
+
+.nav-links a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.75rem;
+    color: var(--color-text-dim);
+    font-weight: 800;
+    text-transform: uppercase;
+    transition: 0.3s;
+    font-style: italic;
+}
+
+.nav-links i {
+    font-size: 1.4rem;
+    margin-bottom: 2px;
+    transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Active State */
+.nav-links a.active {
+    color: #fff;
+}
+
+.nav-links a.active i {
+    color: var(--color-yellow);
+    filter: drop-shadow(0 0 8px var(--color-orange));
+    transform: translateY(-4px) scale(1.1);
+}
+
+/* =========================================
+   BUTTONS (Sporty)
+   ========================================= */
+.btn-primary,
+.btn-secondary,
+.btn-action {
+    background: var(--gradient-button);
+    border: none;
+    border-radius: 4px;
+    color: #000;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    padding: 0.8rem 2.5rem;
+    cursor: pointer;
+    box-shadow: 0 4px 0 #b35900;
+    transition: all 0.1s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-style: italic;
+    transform: skewX(-10deg);
+    /* Sporty skew */
+}
+
+.btn-primary>*,
+.btn-secondary>*,
+.btn-action>* {
+    transform: skewX(10deg);
+    /* Unskew text */
+}
+
+.btn-primary:active,
+.btn-action:active {
+    transform: skewX(-10deg) translateY(4px);
+    box-shadow: 0 0 0 #b35900;
+}
+
+.btn-secondary {
+    background: #333;
+    color: #fff;
+    box-shadow: 0 4px 0 #111;
+}
+
+/* =========================================
+   CHECKLIST CARDS
+   ========================================= */
+.checklist-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    padding: 1rem 0;
+}
+
+@media(min-width: 600px) {
+    .checklist-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}
+
+.check-card {
+    background: #222;
+    border: 1px solid #333;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Top Visual */
+.card-visual {
+    height: 120px;
+    background: linear-gradient(to bottom, #444, #222);
+    position: relative;
+    border-bottom: 2px solid var(--color-orange);
+}
+
+/* Rarity Backgrounds */
+.rarity-balon_oro .card-visual {
+    background: linear-gradient(135deg, #ffd700, #b8860b);
+    border-color: #ffd700;
+}
+
+.rarity-supercrack .card-visual {
+    background: linear-gradient(135deg, silver, #a9a9a9);
+    border-color: white;
+}
+
+.rarity-energy .card-visual {
+    background: linear-gradient(135deg, #ff4500, #b22222);
+    border-color: #ff4500;
+}
+
+.card-number {
+    position: absolute;
+    top: 5px;
+    left: 8px;
+    font-weight: 900;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.card-status-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    color: #00ff00;
+    font-size: 3rem;
+    opacity: 0;
+    transition: 0.3s;
+}
+
+/* Info */
+.card-info {
+    padding: 10px;
+    text-align: center;
+}
+
+.card-name {
+    font-weight: 800;
+    font-size: 1rem;
+    color: #fff;
+    line-height: 1.1;
+    margin-bottom: 4px;
+}
+
+.card-sub {
+    font-size: 0.8rem;
+    color: #888;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* Control Bar */
+.card-actions {
+    background: #111;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #333;
+}
+
+.action-album {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    margin-right: 5px;
+}
+
+.action-album.active {
+    background: var(--color-primary);
+    /* Orange */
+    color: #000;
+    box-shadow: 0 0 10px var(--color-orange);
+    border-color: #000;
+}
+
+.repe-control {
+    display: flex;
+    background: #000;
+    border-radius: 4px;
+    padding: 2px;
+    border: 1px solid #333;
+}
+
+.repe-count {
+    width: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 4px;
+}
+
+.repe-count.active {
+    color: var(--color-yellow);
+}
+
+/* OWNED STATE */
+.check-card.owned {
+    border: 2px solid var(--color-orange);
+    transform: translateY(-2px);
+}
+
+/* PROGRESS BAR */
+.progress-bar-container {
+    background: #111;
+    border: 1px solid #333;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.progress-fill {
+    background: var(--gradient-banner);
+}
+
+/* HERO (Home) */
+.hero {
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+.hero-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+    /* Reduced from 2.2rem */
+    text-transform: uppercase;
+    font-style: italic;
+    line-height: 1.1;
+    margin: 0 auto 2rem auto;
+    /* Centered with bottom margin */
+
+    /* Ambiente Negro (Black Container) */
+    background-color: #111;
+    padding: 0.8rem 1.5rem;
+    /* Reduced padding */
+    border-radius: 12px;
+    display: inline-block;
+    /* Wrap text */
+    text-align: center;
+    /* Ensure lines are centered */
+    border: 2px solid #ffd700;
+    /* Gold border to match stroke */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+
+    /* Adrenalyn 3D Style */
+    color: #000000;
+    -webkit-text-stroke: 0.8px #ffd700;
+    /* Thinner stroke */
+    text-shadow: 2px 2px 0px #ff6600;
+    /* Smaller shadow */
+    letter-spacing: 1px;
+}
+
+.hero-title span {
+    color: #000000 !important;
+    -webkit-text-stroke: 2px #ffd700;
+    text-shadow: 6px 6px 0px #ff6600;
+}
+
+.hero-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    max-width: 300px;
+    margin: 5rem auto 0;
+    /* Increased top margin */
+}
+
+/* TOAST */
+.toast {
+    position: fixed;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--color-orange);
+    color: #000;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 900;
+    text-transform: uppercase;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s;
+    z-index: 2000;
+}
+
+.toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* COLLECTIONS PAGE SPECIFIC STYLES */
+.collection-card {
+    background: #222;
+    border: 1px solid #333;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* Center everything */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.collection-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    border-color: var(--color-orange);
+}
+
+.card-image {
+    width: 100%;
+    height: 300px;
+    /* Taller image area for the pack */
+    overflow: hidden;
+    position: relative;
+    border-bottom: 2px solid var(--color-orange);
+    background: #111;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    /* Flex center */
+    flex-grow: 1;
+}
+
+.card-meta {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 0.8rem;
+    color: #888;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.collection-card h3 {
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: #fff;
+    line-height: 1.2;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.stats {
+    color: var(--color-yellow);
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.collection-card .btn-primary {
+    width: 100%;
+}
+
+/* CHECKLIST CARD IMAGES */
+.card-visual {
+    position: relative;
+    overflow: hidden;
+}
+
+.card-img-real {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    /* Ensure card is visible fully */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+/* Fallback placeholder when no image */
+.card-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    z-index: 5;
+}
+
+/* Ensure owned cards glow nicely */
+.check-card.owned .card-visual::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: inset 0 0 20px var(--color-orange);
+    pointer-events: none;
+    z-index: 15;
+}
+
+/* TEAM SELECTION GRID */
+.team-selector-card {
+    background: var(--gradient-card);
+    border: 1px solid #333;
+    border-top: 2px solid #444;
+    border-radius: 8px;
+    /* Sharper corners */
+    padding: 1rem;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    min-height: 160px;
+    height: auto;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.team-selector-card:hover {
+    background: #2a2a35;
+    border-color: var(--color-orange);
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 10px 30px rgba(255, 69, 0, 0.15);
+}
+
+.team-selector-card i {
+    font-size: 2rem;
+    color: var(--color-orange);
+    margin-bottom: 5px;
+}
+
+.team-name {
+    font-weight: 800;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+.team-count {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+/* Special Series Styling */
+.team-selector-card.special-series {
+    border-color: var(--color-yellow);
+    background: linear-gradient(135deg, #222, #111);
+}
+
+.team-selector-card.special-series i {
+    color: var(--color-yellow);
+}
+
+/* TEAM LOGO IMAGES */
+.team-logo-container {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    filter: drop-shadow(0 5px 5px rgba(0, 0, 0, 0.5));
+    transition: transform 0.3s;
+}
+
+.team-selector-card:hover .team-logo-container {
+    transform: scale(1.1);
+}
+
+.team-logo-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.collection-header {
+    padding-top: 4rem;
+    /* Generous top space */
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.header-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.breadcrumb {
+    display: block;
+    margin-bottom: 3rem;
+    /* Increased spacing */
+    color: #bbb;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+}

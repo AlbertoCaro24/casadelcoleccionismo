@@ -1,0 +1,3881 @@
+[
+  {
+    "id": "base-1",
+    "number": "1",
+    "name": "Escudo Athletic Club",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-2",
+    "number": "2",
+    "name": "Entrenador Athletic Club",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-3",
+    "number": "3",
+    "name": "Jugador Athletic Club 1",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-4",
+    "number": "4",
+    "name": "Jugador Athletic Club 2",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-5",
+    "number": "5",
+    "name": "Jugador Athletic Club 3",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-6",
+    "number": "6",
+    "name": "Jugador Athletic Club 4",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-7",
+    "number": "7",
+    "name": "Jugador Athletic Club 5",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-8",
+    "number": "8",
+    "name": "Jugador Athletic Club 6",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-9",
+    "number": "9",
+    "name": "Jugador Athletic Club 7",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-10",
+    "number": "10",
+    "name": "Jugador Athletic Club 8",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-11",
+    "number": "11",
+    "name": "Jugador Athletic Club 9",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-12",
+    "number": "12",
+    "name": "Jugador Athletic Club 10",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-13",
+    "number": "13",
+    "name": "Jugador Athletic Club 11",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-14",
+    "number": "14",
+    "name": "Jugador Athletic Club 12",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-15",
+    "number": "15",
+    "name": "Jugador Athletic Club 13",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-16",
+    "number": "16",
+    "name": "Jugador Athletic Club 14",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-17",
+    "number": "17",
+    "name": "Jugador Athletic Club 15",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-18",
+    "number": "18",
+    "name": "Jugador Athletic Club 16",
+    "team": "Athletic Club",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-19",
+    "number": "19",
+    "name": "Escudo Atlético de Madrid",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-20",
+    "number": "20",
+    "name": "Entrenador Atlético de Madrid",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-21",
+    "number": "21",
+    "name": "Jugador Atlético de Madrid 1",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-22",
+    "number": "22",
+    "name": "Jugador Atlético de Madrid 2",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-23",
+    "number": "23",
+    "name": "Jugador Atlético de Madrid 3",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-24",
+    "number": "24",
+    "name": "Jugador Atlético de Madrid 4",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-25",
+    "number": "25",
+    "name": "Jugador Atlético de Madrid 5",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-26",
+    "number": "26",
+    "name": "Jugador Atlético de Madrid 6",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-27",
+    "number": "27",
+    "name": "Jugador Atlético de Madrid 7",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-28",
+    "number": "28",
+    "name": "Jugador Atlético de Madrid 8",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-29",
+    "number": "29",
+    "name": "Jugador Atlético de Madrid 9",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-30",
+    "number": "30",
+    "name": "Jugador Atlético de Madrid 10",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-31",
+    "number": "31",
+    "name": "Jugador Atlético de Madrid 11",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-32",
+    "number": "32",
+    "name": "Jugador Atlético de Madrid 12",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-33",
+    "number": "33",
+    "name": "Jugador Atlético de Madrid 13",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-34",
+    "number": "34",
+    "name": "Jugador Atlético de Madrid 14",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-35",
+    "number": "35",
+    "name": "Jugador Atlético de Madrid 15",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-36",
+    "number": "36",
+    "name": "Jugador Atlético de Madrid 16",
+    "team": "Atlético de Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-37",
+    "number": "37",
+    "name": "Escudo CA Osasuna",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-38",
+    "number": "38",
+    "name": "Entrenador CA Osasuna",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-39",
+    "number": "39",
+    "name": "Jugador CA Osasuna 1",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-40",
+    "number": "40",
+    "name": "Jugador CA Osasuna 2",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-41",
+    "number": "41",
+    "name": "Jugador CA Osasuna 3",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-42",
+    "number": "42",
+    "name": "Jugador CA Osasuna 4",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-43",
+    "number": "43",
+    "name": "Jugador CA Osasuna 5",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-44",
+    "number": "44",
+    "name": "Jugador CA Osasuna 6",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-45",
+    "number": "45",
+    "name": "Jugador CA Osasuna 7",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-46",
+    "number": "46",
+    "name": "Jugador CA Osasuna 8",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-47",
+    "number": "47",
+    "name": "Jugador CA Osasuna 9",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-48",
+    "number": "48",
+    "name": "Jugador CA Osasuna 10",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-49",
+    "number": "49",
+    "name": "Jugador CA Osasuna 11",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-50",
+    "number": "50",
+    "name": "Jugador CA Osasuna 12",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-51",
+    "number": "51",
+    "name": "Jugador CA Osasuna 13",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-52",
+    "number": "52",
+    "name": "Jugador CA Osasuna 14",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-53",
+    "number": "53",
+    "name": "Jugador CA Osasuna 15",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-54",
+    "number": "54",
+    "name": "Jugador CA Osasuna 16",
+    "team": "CA Osasuna",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-55",
+    "number": "55",
+    "name": "Escudo CD Leganés",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-56",
+    "number": "56",
+    "name": "Entrenador CD Leganés",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-57",
+    "number": "57",
+    "name": "Jugador CD Leganés 1",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-58",
+    "number": "58",
+    "name": "Jugador CD Leganés 2",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-59",
+    "number": "59",
+    "name": "Jugador CD Leganés 3",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-60",
+    "number": "60",
+    "name": "Jugador CD Leganés 4",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-61",
+    "number": "61",
+    "name": "Jugador CD Leganés 5",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-62",
+    "number": "62",
+    "name": "Jugador CD Leganés 6",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-63",
+    "number": "63",
+    "name": "Jugador CD Leganés 7",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-64",
+    "number": "64",
+    "name": "Jugador CD Leganés 8",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-65",
+    "number": "65",
+    "name": "Jugador CD Leganés 9",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-66",
+    "number": "66",
+    "name": "Jugador CD Leganés 10",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-67",
+    "number": "67",
+    "name": "Jugador CD Leganés 11",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-68",
+    "number": "68",
+    "name": "Jugador CD Leganés 12",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-69",
+    "number": "69",
+    "name": "Jugador CD Leganés 13",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-70",
+    "number": "70",
+    "name": "Jugador CD Leganés 14",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-71",
+    "number": "71",
+    "name": "Jugador CD Leganés 15",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-72",
+    "number": "72",
+    "name": "Jugador CD Leganés 16",
+    "team": "CD Leganés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-73",
+    "number": "73",
+    "name": "Escudo Deportivo Alavés",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-74",
+    "number": "74",
+    "name": "Entrenador Deportivo Alavés",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-75",
+    "number": "75",
+    "name": "Jugador Deportivo Alavés 1",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-76",
+    "number": "76",
+    "name": "Jugador Deportivo Alavés 2",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-77",
+    "number": "77",
+    "name": "Jugador Deportivo Alavés 3",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-78",
+    "number": "78",
+    "name": "Jugador Deportivo Alavés 4",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-79",
+    "number": "79",
+    "name": "Jugador Deportivo Alavés 5",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-80",
+    "number": "80",
+    "name": "Jugador Deportivo Alavés 6",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-81",
+    "number": "81",
+    "name": "Jugador Deportivo Alavés 7",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-82",
+    "number": "82",
+    "name": "Jugador Deportivo Alavés 8",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-83",
+    "number": "83",
+    "name": "Jugador Deportivo Alavés 9",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-84",
+    "number": "84",
+    "name": "Jugador Deportivo Alavés 10",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-85",
+    "number": "85",
+    "name": "Jugador Deportivo Alavés 11",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-86",
+    "number": "86",
+    "name": "Jugador Deportivo Alavés 12",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-87",
+    "number": "87",
+    "name": "Jugador Deportivo Alavés 13",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-88",
+    "number": "88",
+    "name": "Jugador Deportivo Alavés 14",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-89",
+    "number": "89",
+    "name": "Jugador Deportivo Alavés 15",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-90",
+    "number": "90",
+    "name": "Jugador Deportivo Alavés 16",
+    "team": "Deportivo Alavés",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-91",
+    "number": "91",
+    "name": "Escudo FC Barcelona",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-92",
+    "number": "92",
+    "name": "Entrenador FC Barcelona",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-93",
+    "number": "93",
+    "name": "Jugador FC Barcelona 1",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-94",
+    "number": "94",
+    "name": "Jugador FC Barcelona 2",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-95",
+    "number": "95",
+    "name": "Jugador FC Barcelona 3",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-96",
+    "number": "96",
+    "name": "Jugador FC Barcelona 4",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-97",
+    "number": "97",
+    "name": "Jugador FC Barcelona 5",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-98",
+    "number": "98",
+    "name": "Jugador FC Barcelona 6",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-99",
+    "number": "99",
+    "name": "Jugador FC Barcelona 7",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-100",
+    "number": "100",
+    "name": "Jugador FC Barcelona 8",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-101",
+    "number": "101",
+    "name": "Jugador FC Barcelona 9",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-102",
+    "number": "102",
+    "name": "Jugador FC Barcelona 10",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-103",
+    "number": "103",
+    "name": "Jugador FC Barcelona 11",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-104",
+    "number": "104",
+    "name": "Jugador FC Barcelona 12",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-105",
+    "number": "105",
+    "name": "Jugador FC Barcelona 13",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-106",
+    "number": "106",
+    "name": "Jugador FC Barcelona 14",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-107",
+    "number": "107",
+    "name": "Jugador FC Barcelona 15",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-108",
+    "number": "108",
+    "name": "Jugador FC Barcelona 16",
+    "team": "FC Barcelona",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-109",
+    "number": "109",
+    "name": "Escudo Getafe CF",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-110",
+    "number": "110",
+    "name": "Entrenador Getafe CF",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-111",
+    "number": "111",
+    "name": "Jugador Getafe CF 1",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-112",
+    "number": "112",
+    "name": "Jugador Getafe CF 2",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-113",
+    "number": "113",
+    "name": "Jugador Getafe CF 3",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-114",
+    "number": "114",
+    "name": "Jugador Getafe CF 4",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-115",
+    "number": "115",
+    "name": "Jugador Getafe CF 5",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-116",
+    "number": "116",
+    "name": "Jugador Getafe CF 6",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-117",
+    "number": "117",
+    "name": "Jugador Getafe CF 7",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-118",
+    "number": "118",
+    "name": "Jugador Getafe CF 8",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-119",
+    "number": "119",
+    "name": "Jugador Getafe CF 9",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-120",
+    "number": "120",
+    "name": "Jugador Getafe CF 10",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-121",
+    "number": "121",
+    "name": "Jugador Getafe CF 11",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-122",
+    "number": "122",
+    "name": "Jugador Getafe CF 12",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-123",
+    "number": "123",
+    "name": "Jugador Getafe CF 13",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-124",
+    "number": "124",
+    "name": "Jugador Getafe CF 14",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-125",
+    "number": "125",
+    "name": "Jugador Getafe CF 15",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-126",
+    "number": "126",
+    "name": "Jugador Getafe CF 16",
+    "team": "Getafe CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-127",
+    "number": "127",
+    "name": "Escudo Girona FC",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-128",
+    "number": "128",
+    "name": "Entrenador Girona FC",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-129",
+    "number": "129",
+    "name": "Jugador Girona FC 1",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-130",
+    "number": "130",
+    "name": "Jugador Girona FC 2",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-131",
+    "number": "131",
+    "name": "Jugador Girona FC 3",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-132",
+    "number": "132",
+    "name": "Jugador Girona FC 4",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-133",
+    "number": "133",
+    "name": "Jugador Girona FC 5",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-134",
+    "number": "134",
+    "name": "Jugador Girona FC 6",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-135",
+    "number": "135",
+    "name": "Jugador Girona FC 7",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-136",
+    "number": "136",
+    "name": "Jugador Girona FC 8",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-137",
+    "number": "137",
+    "name": "Jugador Girona FC 9",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-138",
+    "number": "138",
+    "name": "Jugador Girona FC 10",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-139",
+    "number": "139",
+    "name": "Jugador Girona FC 11",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-140",
+    "number": "140",
+    "name": "Jugador Girona FC 12",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-141",
+    "number": "141",
+    "name": "Jugador Girona FC 13",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-142",
+    "number": "142",
+    "name": "Jugador Girona FC 14",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-143",
+    "number": "143",
+    "name": "Jugador Girona FC 15",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-144",
+    "number": "144",
+    "name": "Jugador Girona FC 16",
+    "team": "Girona FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-145",
+    "number": "145",
+    "name": "Escudo RCD Espanyol",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-146",
+    "number": "146",
+    "name": "Entrenador RCD Espanyol",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-147",
+    "number": "147",
+    "name": "Jugador RCD Espanyol 1",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-148",
+    "number": "148",
+    "name": "Jugador RCD Espanyol 2",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-149",
+    "number": "149",
+    "name": "Jugador RCD Espanyol 3",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-150",
+    "number": "150",
+    "name": "Jugador RCD Espanyol 4",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-151",
+    "number": "151",
+    "name": "Jugador RCD Espanyol 5",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-152",
+    "number": "152",
+    "name": "Jugador RCD Espanyol 6",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-153",
+    "number": "153",
+    "name": "Jugador RCD Espanyol 7",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-154",
+    "number": "154",
+    "name": "Jugador RCD Espanyol 8",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-155",
+    "number": "155",
+    "name": "Jugador RCD Espanyol 9",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-156",
+    "number": "156",
+    "name": "Jugador RCD Espanyol 10",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-157",
+    "number": "157",
+    "name": "Jugador RCD Espanyol 11",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-158",
+    "number": "158",
+    "name": "Jugador RCD Espanyol 12",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-159",
+    "number": "159",
+    "name": "Jugador RCD Espanyol 13",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-160",
+    "number": "160",
+    "name": "Jugador RCD Espanyol 14",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-161",
+    "number": "161",
+    "name": "Jugador RCD Espanyol 15",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-162",
+    "number": "162",
+    "name": "Jugador RCD Espanyol 16",
+    "team": "RCD Espanyol",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-163",
+    "number": "163",
+    "name": "Escudo RC Celta",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-164",
+    "number": "164",
+    "name": "Entrenador RC Celta",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-165",
+    "number": "165",
+    "name": "Jugador RC Celta 1",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-166",
+    "number": "166",
+    "name": "Jugador RC Celta 2",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-167",
+    "number": "167",
+    "name": "Jugador RC Celta 3",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-168",
+    "number": "168",
+    "name": "Jugador RC Celta 4",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-169",
+    "number": "169",
+    "name": "Jugador RC Celta 5",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-170",
+    "number": "170",
+    "name": "Jugador RC Celta 6",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-171",
+    "number": "171",
+    "name": "Jugador RC Celta 7",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-172",
+    "number": "172",
+    "name": "Jugador RC Celta 8",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-173",
+    "number": "173",
+    "name": "Jugador RC Celta 9",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-174",
+    "number": "174",
+    "name": "Jugador RC Celta 10",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-175",
+    "number": "175",
+    "name": "Jugador RC Celta 11",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-176",
+    "number": "176",
+    "name": "Jugador RC Celta 12",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-177",
+    "number": "177",
+    "name": "Jugador RC Celta 13",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-178",
+    "number": "178",
+    "name": "Jugador RC Celta 14",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-179",
+    "number": "179",
+    "name": "Jugador RC Celta 15",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-180",
+    "number": "180",
+    "name": "Jugador RC Celta 16",
+    "team": "RC Celta",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-181",
+    "number": "181",
+    "name": "Escudo RCD Mallorca",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-182",
+    "number": "182",
+    "name": "Entrenador RCD Mallorca",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-183",
+    "number": "183",
+    "name": "Jugador RCD Mallorca 1",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-184",
+    "number": "184",
+    "name": "Jugador RCD Mallorca 2",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-185",
+    "number": "185",
+    "name": "Jugador RCD Mallorca 3",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-186",
+    "number": "186",
+    "name": "Jugador RCD Mallorca 4",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-187",
+    "number": "187",
+    "name": "Jugador RCD Mallorca 5",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-188",
+    "number": "188",
+    "name": "Jugador RCD Mallorca 6",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-189",
+    "number": "189",
+    "name": "Jugador RCD Mallorca 7",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-190",
+    "number": "190",
+    "name": "Jugador RCD Mallorca 8",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-191",
+    "number": "191",
+    "name": "Jugador RCD Mallorca 9",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-192",
+    "number": "192",
+    "name": "Jugador RCD Mallorca 10",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-193",
+    "number": "193",
+    "name": "Jugador RCD Mallorca 11",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-194",
+    "number": "194",
+    "name": "Jugador RCD Mallorca 12",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-195",
+    "number": "195",
+    "name": "Jugador RCD Mallorca 13",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-196",
+    "number": "196",
+    "name": "Jugador RCD Mallorca 14",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-197",
+    "number": "197",
+    "name": "Jugador RCD Mallorca 15",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-198",
+    "number": "198",
+    "name": "Jugador RCD Mallorca 16",
+    "team": "RCD Mallorca",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-199",
+    "number": "199",
+    "name": "Escudo Real Betis",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-200",
+    "number": "200",
+    "name": "Entrenador Real Betis",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-201",
+    "number": "201",
+    "name": "Jugador Real Betis 1",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-202",
+    "number": "202",
+    "name": "Jugador Real Betis 2",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-203",
+    "number": "203",
+    "name": "Jugador Real Betis 3",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-204",
+    "number": "204",
+    "name": "Jugador Real Betis 4",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-205",
+    "number": "205",
+    "name": "Jugador Real Betis 5",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-206",
+    "number": "206",
+    "name": "Jugador Real Betis 6",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-207",
+    "number": "207",
+    "name": "Jugador Real Betis 7",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-208",
+    "number": "208",
+    "name": "Jugador Real Betis 8",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-209",
+    "number": "209",
+    "name": "Jugador Real Betis 9",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-210",
+    "number": "210",
+    "name": "Jugador Real Betis 10",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-211",
+    "number": "211",
+    "name": "Jugador Real Betis 11",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-212",
+    "number": "212",
+    "name": "Jugador Real Betis 12",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-213",
+    "number": "213",
+    "name": "Jugador Real Betis 13",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-214",
+    "number": "214",
+    "name": "Jugador Real Betis 14",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-215",
+    "number": "215",
+    "name": "Jugador Real Betis 15",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-216",
+    "number": "216",
+    "name": "Jugador Real Betis 16",
+    "team": "Real Betis",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-217",
+    "number": "217",
+    "name": "Escudo Real Madrid",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-218",
+    "number": "218",
+    "name": "Entrenador Real Madrid",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-219",
+    "number": "219",
+    "name": "Jugador Real Madrid 1",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-220",
+    "number": "220",
+    "name": "Jugador Real Madrid 2",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-221",
+    "number": "221",
+    "name": "Jugador Real Madrid 3",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-222",
+    "number": "222",
+    "name": "Jugador Real Madrid 4",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-223",
+    "number": "223",
+    "name": "Jugador Real Madrid 5",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-224",
+    "number": "224",
+    "name": "Jugador Real Madrid 6",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-225",
+    "number": "225",
+    "name": "Jugador Real Madrid 7",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-226",
+    "number": "226",
+    "name": "Jugador Real Madrid 8",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-227",
+    "number": "227",
+    "name": "Jugador Real Madrid 9",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-228",
+    "number": "228",
+    "name": "Jugador Real Madrid 10",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-229",
+    "number": "229",
+    "name": "Jugador Real Madrid 11",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-230",
+    "number": "230",
+    "name": "Jugador Real Madrid 12",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-231",
+    "number": "231",
+    "name": "Jugador Real Madrid 13",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-232",
+    "number": "232",
+    "name": "Jugador Real Madrid 14",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-233",
+    "number": "233",
+    "name": "Jugador Real Madrid 15",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-234",
+    "number": "234",
+    "name": "Jugador Real Madrid 16",
+    "team": "Real Madrid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-235",
+    "number": "235",
+    "name": "Escudo Real Sociedad",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-236",
+    "number": "236",
+    "name": "Entrenador Real Sociedad",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-237",
+    "number": "237",
+    "name": "Jugador Real Sociedad 1",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-238",
+    "number": "238",
+    "name": "Jugador Real Sociedad 2",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-239",
+    "number": "239",
+    "name": "Jugador Real Sociedad 3",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-240",
+    "number": "240",
+    "name": "Jugador Real Sociedad 4",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-241",
+    "number": "241",
+    "name": "Jugador Real Sociedad 5",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-242",
+    "number": "242",
+    "name": "Jugador Real Sociedad 6",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-243",
+    "number": "243",
+    "name": "Jugador Real Sociedad 7",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-244",
+    "number": "244",
+    "name": "Jugador Real Sociedad 8",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-245",
+    "number": "245",
+    "name": "Jugador Real Sociedad 9",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-246",
+    "number": "246",
+    "name": "Jugador Real Sociedad 10",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-247",
+    "number": "247",
+    "name": "Jugador Real Sociedad 11",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-248",
+    "number": "248",
+    "name": "Jugador Real Sociedad 12",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-249",
+    "number": "249",
+    "name": "Jugador Real Sociedad 13",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-250",
+    "number": "250",
+    "name": "Jugador Real Sociedad 14",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-251",
+    "number": "251",
+    "name": "Jugador Real Sociedad 15",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-252",
+    "number": "252",
+    "name": "Jugador Real Sociedad 16",
+    "team": "Real Sociedad",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-253",
+    "number": "253",
+    "name": "Escudo Real Valladolid",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-254",
+    "number": "254",
+    "name": "Entrenador Real Valladolid",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-255",
+    "number": "255",
+    "name": "Jugador Real Valladolid 1",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-256",
+    "number": "256",
+    "name": "Jugador Real Valladolid 2",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-257",
+    "number": "257",
+    "name": "Jugador Real Valladolid 3",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-258",
+    "number": "258",
+    "name": "Jugador Real Valladolid 4",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-259",
+    "number": "259",
+    "name": "Jugador Real Valladolid 5",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-260",
+    "number": "260",
+    "name": "Jugador Real Valladolid 6",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-261",
+    "number": "261",
+    "name": "Jugador Real Valladolid 7",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-262",
+    "number": "262",
+    "name": "Jugador Real Valladolid 8",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-263",
+    "number": "263",
+    "name": "Jugador Real Valladolid 9",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-264",
+    "number": "264",
+    "name": "Jugador Real Valladolid 10",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-265",
+    "number": "265",
+    "name": "Jugador Real Valladolid 11",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-266",
+    "number": "266",
+    "name": "Jugador Real Valladolid 12",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-267",
+    "number": "267",
+    "name": "Jugador Real Valladolid 13",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-268",
+    "number": "268",
+    "name": "Jugador Real Valladolid 14",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-269",
+    "number": "269",
+    "name": "Jugador Real Valladolid 15",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-270",
+    "number": "270",
+    "name": "Jugador Real Valladolid 16",
+    "team": "Real Valladolid",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-271",
+    "number": "271",
+    "name": "Escudo Sevilla FC",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-272",
+    "number": "272",
+    "name": "Entrenador Sevilla FC",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-273",
+    "number": "273",
+    "name": "Jugador Sevilla FC 1",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-274",
+    "number": "274",
+    "name": "Jugador Sevilla FC 2",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-275",
+    "number": "275",
+    "name": "Jugador Sevilla FC 3",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-276",
+    "number": "276",
+    "name": "Jugador Sevilla FC 4",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-277",
+    "number": "277",
+    "name": "Jugador Sevilla FC 5",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-278",
+    "number": "278",
+    "name": "Jugador Sevilla FC 6",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-279",
+    "number": "279",
+    "name": "Jugador Sevilla FC 7",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-280",
+    "number": "280",
+    "name": "Jugador Sevilla FC 8",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-281",
+    "number": "281",
+    "name": "Jugador Sevilla FC 9",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-282",
+    "number": "282",
+    "name": "Jugador Sevilla FC 10",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-283",
+    "number": "283",
+    "name": "Jugador Sevilla FC 11",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-284",
+    "number": "284",
+    "name": "Jugador Sevilla FC 12",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-285",
+    "number": "285",
+    "name": "Jugador Sevilla FC 13",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-286",
+    "number": "286",
+    "name": "Jugador Sevilla FC 14",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-287",
+    "number": "287",
+    "name": "Jugador Sevilla FC 15",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-288",
+    "number": "288",
+    "name": "Jugador Sevilla FC 16",
+    "team": "Sevilla FC",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-289",
+    "number": "289",
+    "name": "Escudo UD Las Palmas",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-290",
+    "number": "290",
+    "name": "Entrenador UD Las Palmas",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-291",
+    "number": "291",
+    "name": "Jugador UD Las Palmas 1",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-292",
+    "number": "292",
+    "name": "Jugador UD Las Palmas 2",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-293",
+    "number": "293",
+    "name": "Jugador UD Las Palmas 3",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-294",
+    "number": "294",
+    "name": "Jugador UD Las Palmas 4",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-295",
+    "number": "295",
+    "name": "Jugador UD Las Palmas 5",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-296",
+    "number": "296",
+    "name": "Jugador UD Las Palmas 6",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-297",
+    "number": "297",
+    "name": "Jugador UD Las Palmas 7",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-298",
+    "number": "298",
+    "name": "Jugador UD Las Palmas 8",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-299",
+    "number": "299",
+    "name": "Jugador UD Las Palmas 9",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-300",
+    "number": "300",
+    "name": "Jugador UD Las Palmas 10",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-301",
+    "number": "301",
+    "name": "Jugador UD Las Palmas 11",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-302",
+    "number": "302",
+    "name": "Jugador UD Las Palmas 12",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-303",
+    "number": "303",
+    "name": "Jugador UD Las Palmas 13",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-304",
+    "number": "304",
+    "name": "Jugador UD Las Palmas 14",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-305",
+    "number": "305",
+    "name": "Jugador UD Las Palmas 15",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-306",
+    "number": "306",
+    "name": "Jugador UD Las Palmas 16",
+    "team": "UD Las Palmas",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-307",
+    "number": "307",
+    "name": "Escudo Valencia CF",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-308",
+    "number": "308",
+    "name": "Entrenador Valencia CF",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-309",
+    "number": "309",
+    "name": "Jugador Valencia CF 1",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-310",
+    "number": "310",
+    "name": "Jugador Valencia CF 2",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-311",
+    "number": "311",
+    "name": "Jugador Valencia CF 3",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-312",
+    "number": "312",
+    "name": "Jugador Valencia CF 4",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-313",
+    "number": "313",
+    "name": "Jugador Valencia CF 5",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-314",
+    "number": "314",
+    "name": "Jugador Valencia CF 6",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-315",
+    "number": "315",
+    "name": "Jugador Valencia CF 7",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-316",
+    "number": "316",
+    "name": "Jugador Valencia CF 8",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-317",
+    "number": "317",
+    "name": "Jugador Valencia CF 9",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-318",
+    "number": "318",
+    "name": "Jugador Valencia CF 10",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-319",
+    "number": "319",
+    "name": "Jugador Valencia CF 11",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-320",
+    "number": "320",
+    "name": "Jugador Valencia CF 12",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-321",
+    "number": "321",
+    "name": "Jugador Valencia CF 13",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-322",
+    "number": "322",
+    "name": "Jugador Valencia CF 14",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-323",
+    "number": "323",
+    "name": "Jugador Valencia CF 15",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-324",
+    "number": "324",
+    "name": "Jugador Valencia CF 16",
+    "team": "Valencia CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-325",
+    "number": "325",
+    "name": "Escudo Rayo Vallecano",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-326",
+    "number": "326",
+    "name": "Entrenador Rayo Vallecano",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-327",
+    "number": "327",
+    "name": "Jugador Rayo Vallecano 1",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-328",
+    "number": "328",
+    "name": "Jugador Rayo Vallecano 2",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-329",
+    "number": "329",
+    "name": "Jugador Rayo Vallecano 3",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-330",
+    "number": "330",
+    "name": "Jugador Rayo Vallecano 4",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-331",
+    "number": "331",
+    "name": "Jugador Rayo Vallecano 5",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-332",
+    "number": "332",
+    "name": "Jugador Rayo Vallecano 6",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-333",
+    "number": "333",
+    "name": "Jugador Rayo Vallecano 7",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-334",
+    "number": "334",
+    "name": "Jugador Rayo Vallecano 8",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-335",
+    "number": "335",
+    "name": "Jugador Rayo Vallecano 9",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-336",
+    "number": "336",
+    "name": "Jugador Rayo Vallecano 10",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-337",
+    "number": "337",
+    "name": "Jugador Rayo Vallecano 11",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-338",
+    "number": "338",
+    "name": "Jugador Rayo Vallecano 12",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-339",
+    "number": "339",
+    "name": "Jugador Rayo Vallecano 13",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-340",
+    "number": "340",
+    "name": "Jugador Rayo Vallecano 14",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-341",
+    "number": "341",
+    "name": "Jugador Rayo Vallecano 15",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-342",
+    "number": "342",
+    "name": "Jugador Rayo Vallecano 16",
+    "team": "Rayo Vallecano",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-343",
+    "number": "343",
+    "name": "Escudo Villarreal CF",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_shield.jpg"
+  },
+  {
+    "id": "base-344",
+    "number": "344",
+    "name": "Entrenador Villarreal CF",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_coach.jpg"
+  },
+  {
+    "id": "base-345",
+    "number": "345",
+    "name": "Jugador Villarreal CF 1",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-346",
+    "number": "346",
+    "name": "Jugador Villarreal CF 2",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-347",
+    "number": "347",
+    "name": "Jugador Villarreal CF 3",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-348",
+    "number": "348",
+    "name": "Jugador Villarreal CF 4",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-349",
+    "number": "349",
+    "name": "Jugador Villarreal CF 5",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-350",
+    "number": "350",
+    "name": "Jugador Villarreal CF 6",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-351",
+    "number": "351",
+    "name": "Jugador Villarreal CF 7",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-352",
+    "number": "352",
+    "name": "Jugador Villarreal CF 8",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-353",
+    "number": "353",
+    "name": "Jugador Villarreal CF 9",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-354",
+    "number": "354",
+    "name": "Jugador Villarreal CF 10",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-355",
+    "number": "355",
+    "name": "Jugador Villarreal CF 11",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-356",
+    "number": "356",
+    "name": "Jugador Villarreal CF 12",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-357",
+    "number": "357",
+    "name": "Jugador Villarreal CF 13",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-358",
+    "number": "358",
+    "name": "Jugador Villarreal CF 14",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-359",
+    "number": "359",
+    "name": "Jugador Villarreal CF 15",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "base-360",
+    "number": "360",
+    "name": "Jugador Villarreal CF 16",
+    "team": "Villarreal CF",
+    "category": "base",
+    "rarity": "Común",
+    "image": "assets/img/cards/placeholder_player.jpg"
+  },
+  {
+    "id": "spec-361",
+    "number": "361",
+    "name": "Energy #1",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-362",
+    "number": "362",
+    "name": "Energy #2",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-363",
+    "number": "363",
+    "name": "Energy #3",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-364",
+    "number": "364",
+    "name": "Energy #4",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-365",
+    "number": "365",
+    "name": "Energy #5",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-366",
+    "number": "366",
+    "name": "Energy #6",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-367",
+    "number": "367",
+    "name": "Energy #7",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-368",
+    "number": "368",
+    "name": "Energy #8",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-369",
+    "number": "369",
+    "name": "Energy #9",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-370",
+    "number": "370",
+    "name": "Energy #10",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-371",
+    "number": "371",
+    "name": "Energy #11",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-372",
+    "number": "372",
+    "name": "Energy #12",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-373",
+    "number": "373",
+    "name": "Energy #13",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-374",
+    "number": "374",
+    "name": "Energy #14",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-375",
+    "number": "375",
+    "name": "Energy #15",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-376",
+    "number": "376",
+    "name": "Energy #16",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-377",
+    "number": "377",
+    "name": "Energy #17",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-378",
+    "number": "378",
+    "name": "Energy #18",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-379",
+    "number": "379",
+    "name": "Energy #19",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-380",
+    "number": "380",
+    "name": "Energy #20",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-381",
+    "number": "381",
+    "name": "Energy #21",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-382",
+    "number": "382",
+    "name": "Energy #22",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-383",
+    "number": "383",
+    "name": "Energy #23",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-384",
+    "number": "384",
+    "name": "Energy #24",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-385",
+    "number": "385",
+    "name": "Energy #25",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-386",
+    "number": "386",
+    "name": "Energy #26",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-387",
+    "number": "387",
+    "name": "Energy #27",
+    "team": "LaLiga Stars",
+    "category": "energy",
+    "rarity": "Energy",
+    "image": "assets/img/cards/energy.jpg"
+  },
+  {
+    "id": "spec-388",
+    "number": "388",
+    "name": "Diamante #1",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-389",
+    "number": "389",
+    "name": "Diamante #2",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-390",
+    "number": "390",
+    "name": "Diamante #3",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-391",
+    "number": "391",
+    "name": "Diamante #4",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-392",
+    "number": "392",
+    "name": "Diamante #5",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-393",
+    "number": "393",
+    "name": "Diamante #6",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-394",
+    "number": "394",
+    "name": "Diamante #7",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-395",
+    "number": "395",
+    "name": "Diamante #8",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-396",
+    "number": "396",
+    "name": "Diamante #9",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-397",
+    "number": "397",
+    "name": "Diamante #10",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-398",
+    "number": "398",
+    "name": "Diamante #11",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-399",
+    "number": "399",
+    "name": "Diamante #12",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-400",
+    "number": "400",
+    "name": "Diamante #13",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-401",
+    "number": "401",
+    "name": "Diamante #14",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-402",
+    "number": "402",
+    "name": "Diamante #15",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-403",
+    "number": "403",
+    "name": "Diamante #16",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-404",
+    "number": "404",
+    "name": "Diamante #17",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-405",
+    "number": "405",
+    "name": "Diamante #18",
+    "team": "LaLiga Stars",
+    "category": "diamante",
+    "rarity": "Diamante",
+    "image": "assets/img/cards/diamante.jpg"
+  },
+  {
+    "id": "spec-406",
+    "number": "406",
+    "name": "Supercrack #1",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-407",
+    "number": "407",
+    "name": "Supercrack #2",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-408",
+    "number": "408",
+    "name": "Supercrack #3",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-409",
+    "number": "409",
+    "name": "Supercrack #4",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-410",
+    "number": "410",
+    "name": "Supercrack #5",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-411",
+    "number": "411",
+    "name": "Supercrack #6",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-412",
+    "number": "412",
+    "name": "Supercrack #7",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-413",
+    "number": "413",
+    "name": "Supercrack #8",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-414",
+    "number": "414",
+    "name": "Supercrack #9",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-415",
+    "number": "415",
+    "name": "Supercrack #10",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-416",
+    "number": "416",
+    "name": "Supercrack #11",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-417",
+    "number": "417",
+    "name": "Supercrack #12",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-418",
+    "number": "418",
+    "name": "Supercrack #13",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-419",
+    "number": "419",
+    "name": "Supercrack #14",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-420",
+    "number": "420",
+    "name": "Supercrack #15",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-421",
+    "number": "421",
+    "name": "Supercrack #16",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-422",
+    "number": "422",
+    "name": "Supercrack #17",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-423",
+    "number": "423",
+    "name": "Supercrack #18",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-424",
+    "number": "424",
+    "name": "Supercrack #19",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-425",
+    "number": "425",
+    "name": "Supercrack #20",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-426",
+    "number": "426",
+    "name": "Supercrack #21",
+    "team": "LaLiga Stars",
+    "category": "supercrack",
+    "rarity": "Supercrack",
+    "image": "assets/img/cards/supercrack.jpg"
+  },
+  {
+    "id": "spec-427",
+    "number": "427",
+    "name": "Balón de Oro #1",
+    "team": "LaLiga Stars",
+    "category": "balon_oro",
+    "rarity": "Balón de Oro",
+    "image": "assets/img/cards/balon_oro.jpg"
+  },
+  {
+    "id": "spec-428",
+    "number": "428",
+    "name": "Balón de Oro #2",
+    "team": "LaLiga Stars",
+    "category": "balon_oro",
+    "rarity": "Balón de Oro",
+    "image": "assets/img/cards/balon_oro.jpg"
+  },
+  {
+    "id": "spec-429",
+    "number": "429",
+    "name": "Balón de Oro #3",
+    "team": "LaLiga Stars",
+    "category": "balon_oro",
+    "rarity": "Balón de Oro",
+    "image": "assets/img/cards/balon_oro.jpg"
+  },
+  {
+    "id": "spec-430",
+    "number": "430",
+    "name": "Balón de Oro #4",
+    "team": "LaLiga Stars",
+    "category": "balon_oro",
+    "rarity": "Balón de Oro",
+    "image": "assets/img/cards/balon_oro.jpg"
+  },
+  {
+    "id": "spec-431",
+    "number": "431",
+    "name": "Balón de Oro #5",
+    "team": "LaLiga Stars",
+    "category": "balon_oro",
+    "rarity": "Balón de Oro",
+    "image": "assets/img/cards/balon_oro.jpg"
+  }
+]

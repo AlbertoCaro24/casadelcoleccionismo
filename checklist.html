@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checklist | layor24</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <!-- Collection Header -->
+    <header class="collection-header">
+        <div class="container header-container">
+            <div class="header-info">
+                <span class="breadcrumb"><a href="index.html">Inicio</a> / <span
+                        id="collection-name-bread">Cargando...</span></span>
+                <h1 id="collection-title" class="hero-title">Cargando Colección...</h1>
+                <div class="progress-bar-container">
+                    <div class="progress-info">
+                        <span>Tu Progreso</span>
+                        <span id="progress-text">0 / 0 (0%)</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <!-- Back Button (Hidden by default) -->
+                <button id="btn-back-teams" class="btn-secondary" style="display: none;" onclick="showTeamSelection()">
+                    <i class="fa-solid fa-arrow-left"></i> Volver a Equipos
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Content -->
+    <main class="container">
+        <!-- Level 1: Teams & Categories Selection -->
+        <div id="teams-grid" class="checklist-grid text-center">
+            <div class="loading-spinner">Cargando equipos...</div>
+        </div>
+
+        <!-- Level 2: Cards Grid (Hidden initially) -->
+        <div id="checklist-grid" class="checklist-grid" style="display: none;"></div>
+    </main>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast">Carta guardada</div>
+
+    <!-- DATA SCRIPTS -->
+    <script src="db/collections_data.js"></script>
+    <script src="db/adrenalyn-25-26.js"></script> <!-- Pre-loading specific DB for this demo -->
+
+    <!-- APP LOGIC -->
+    <script src="js/tracker.js"></script>
+    <script src="js/db.js"></script>
+    <script src="js/checklist-page.js"></script>
+</body>
+
+</html>
