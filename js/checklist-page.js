@@ -123,8 +123,11 @@ function renderTeamSelection() {
             imageUrl = `assets/img/cards/${groupCards[0].id}.png`;
         }
 
+        const ownedCount = groupCards.filter(card => window.Tracker.isCardOwned(collectionSlug, card.id)).length;
+        const isComplete = ownedCount === count;
+
         const el = document.createElement('div');
-        el.className = `team-selector-card ${isSpecial ? 'special-series' : ''}`;
+        el.className = `team-selector-card ${isSpecial ? 'special-series' : ''} ${isComplete ? 'completed' : ''}`;
         el.onclick = () => showCardsForGroup(groupName);
 
         el.innerHTML = `
@@ -134,7 +137,7 @@ function renderTeamSelection() {
                 <i class="fa-solid ${isSpecial ? 'fa-star' : 'fa-shield-halved'} fallback-icon" style="display:none; font-size: 2rem; color: var(--color-orange);"></i>
             </div>
             <div class="team-name">${groupName}</div>
-            <div class="team-count">${count} Cartas</div>
+            <div class="team-count">${ownedCount}/${count} Cartas ${isComplete ? '<br><span style="color: #00ff00; font-size: 0.8em;">(COMPLETADO)</span>' : ''}</div>
         `;
 
         teamsGrid.appendChild(el);

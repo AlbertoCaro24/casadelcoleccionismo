@@ -603,6 +603,27 @@ h1 {
     color: var(--color-yellow);
 }
 
+/* Completed Team Styling */
+.team-selector-card.completed {
+    border-color: #00ff00;
+    background: linear-gradient(135deg, #0d2e0d, #000000);
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+}
+
+.team-selector-card.completed i {
+    color: #00ff00;
+}
+
+.team-selector-card.completed .team-name {
+    color: #ccffcc;
+    text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
+}
+
+.team-selector-card.completed:hover {
+    border-color: #33ff33;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.4);
+}
+
 /* TEAM LOGO IMAGES */
 .team-logo-container {
     width: 90px;

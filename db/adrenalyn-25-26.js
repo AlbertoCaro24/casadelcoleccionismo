@@ -4157,7 +4157,7 @@ window.CARDS_DATA = [
     "team": "Especial",
     "category": "diamante",
     "rarity": "Diamante",
-    "image": "assets/img/DIAMANTES/axl26-400.webp"
+    "image": "assets/img/DIAMANTES/axl26-400.png"
   },
   {
     "id": "axl26-401",
