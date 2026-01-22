@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <!-- Tippy.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light.css">
 </head>
 
 <body>
@@ -39,6 +41,9 @@
         </div>
     </header>
 
+    <!-- Help Button -->
+    <button id="help-btn" class="help-btn" data-tippy-content="Tutorial: Selecciona un equipo para ver sus cartas. Haz clic en 'Álbum' para marcar como obtenida."><i class="fa-solid fa-question"></i></button>
+
     <!-- Content -->
     <main class="container">
         <!-- Level 1: Teams & Categories Selection -->
@@ -56,6 +61,10 @@
     <!-- DATA SCRIPTS -->
     <script src="db/collections_data.js"></script>
     <script src="db/adrenalyn-25-26.js"></script> <!-- Pre-loading specific DB for this demo -->
+
+    <!-- Tippy.js JS -->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
 
     <!-- APP LOGIC -->
     <script src="js/tracker.js"></script>

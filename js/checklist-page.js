@@ -132,7 +132,7 @@ function renderTeamSelection() {
 
         el.innerHTML = `
             <div class="team-logo-container">
-                 <img src="${imageUrl}" alt="${groupName}" 
+                 <img src="${imageUrl}" alt="Logo del equipo ${groupName}" loading="lazy"
                      onerror="this.src='assets/img/cards/placeholder_shield.jpg'">
                 <i class="fa-solid ${isSpecial ? 'fa-star' : 'fa-shield-halved'} fallback-icon" style="display:none; font-size: 2rem; color: var(--color-orange);"></i>
             </div>
@@ -179,7 +179,7 @@ function renderChecklist(cardsToRender) {
         el.innerHTML = `
             <div class="card-visual rarity-${card.category}">
                  <!--Card Image with fallback-->
-                <img src="${imageUrl}" class="card-img-real" onerror="this.onerror=null;this.src='assets/img/cards/placeholder_player.jpg';">
+                <img src="${imageUrl}" class="card-img-real" alt="Carta #${card.number} ${card.name} del ${card.team}" loading="lazy" onerror="this.onerror=null;this.src='assets/img/cards/placeholder_player.jpg';">
                 <div class="card-placeholder" style="display:none;">
                     <span class="card-number">#${card.number}</span>
                 </div>
@@ -190,12 +190,12 @@ function renderChecklist(cardsToRender) {
             </div>
             
             <div class="card-info">
-                <div class="card-name">${card.name}</div>
+                <div class="card-name">#${card.number} ${card.name}</div>
                 <div class="card-sub">${card.team}</div>
             </div>
 
             <div class="card-actions">
-                <button class="btn-action action-album full-width ${isOwned ? 'active' : ''}" onclick="toggleAlbum('${card.id}')">
+                <button class="btn-action action-album full-width ${isOwned ? 'active' : ''}" onclick="toggleAlbum('${card.id}')" data-tippy-content="Haz clic para marcar como obtenida">
                     <i class="fa-solid fa-book"></i> Álbum
                 </button>
             </div>
@@ -242,3 +242,12 @@ function showToast(msg) {
     toast.classList.add('show');
     setTimeout(() => toast.classList.remove('show'), 2000);
 }
+
+// Initialize tooltips
+document.addEventListener('DOMContentLoaded', () => {
+    tippy('[data-tippy-content]', {
+        theme: 'light',
+        placement: 'top',
+        trigger: 'click',
+    });
+});
